@@ -61,3 +61,11 @@ table {
 button{
     cursor:         pointer;
 }
+
+/* START ALL */
+
+.container{
+    padding: 0 16px;
+    margin: 0 auto;
+    max-width: 375px;
+}
